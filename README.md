@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/Victor-Titan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Victor-Titan/)](https://www.github.com/Victor-Titan/) <p align='left'>I'm a Software Developer who's developed Android Apps in Java and Flutter. I've also built Web Applications using Flask and written chatbots in Python.</p>
 <hr />
 
-### Languages and Libraries
+## Languages and Libraries
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
