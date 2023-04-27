@@ -21,8 +21,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Victor-Titan alt=Victor-Titan /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Victor-Titan&show_icons=true&include_all_commits=true&layout=compact&theme=tokyonight)](https://github.com/Victor-Titan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Titan&layout=compact&theme=tokyonight)](https://github.com/Victor-Titan/github-readme-stats)
+[![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Victor-Titan&show_icons=true&include_all_commits=true&layout=compact&theme=tokyonight)](https://github.com/Victor-Titan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victor-Titan&layout=compact&theme=tokyonight)](https://github.com/Victor-Titan/github-readme-stats)
 
 <!--## 🏆 GitHub Trophies
 <!--
